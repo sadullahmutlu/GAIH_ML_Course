@@ -1,4 +1,4 @@
-# Global AI Hub Python Course Repository
+# Global AI Hub Machine Learning Course Repository
 ![](img/newlogo.png)
 
 **Course Date:** 26.03.2021  
