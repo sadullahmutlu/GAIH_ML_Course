@@ -1,7 +1,7 @@
 # Global AI Hub Python Course Repository
 ![](img/newlogo.png)
 
-**Course Date:** 12.03.2021  
+**Course Date:** 26.03.2021  
 **Name:** Sadullah  
 **Surname:** Mutlu  
 **Email:** sadullahmutlu760@gmail.com  
@@ -17,6 +17,5 @@
 
 ### Certification
 ![](img/Certificate.png)
-### Top Learner Certification
-![](img/TopLearnerCertificate.png)
+
 
