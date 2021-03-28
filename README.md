@@ -6,10 +6,10 @@
 **Surname:** Mutlu  
 **Email:** sadullahmutlu760@gmail.com  
 
-**Note:** Kodların Hepsi  .py formatında yazılmıştır.
+**Note:** 
 
 ## Project Name
-Ödevleri ve Eğitim sonunda verilmiş olan Final Ödevleri Hepsi Tamamlanmıştır ve Düzgün Çalışmaktadır.
+
 
 ## Requirements
 
